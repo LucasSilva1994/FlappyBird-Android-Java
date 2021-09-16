@@ -1,0 +1,4 @@
+com/cursoandroid/flappybird/BuildConfig.java
+ com.cursoandroid.flappybird.BuildConfig
+com/cursoandroid/flappybird/AndroidLauncher.java
+ com.cursoandroid.flappybird.AndroidLauncher
